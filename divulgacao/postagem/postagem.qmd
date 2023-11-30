@@ -1,0 +1,38 @@
+---
+title: "Medidas de resumo"
+author: "ChatGPT"
+date: "2023/11/30"
+image: statistic.png
+---
+
+## Medidas de Resumo em Estatística Descritiva: Média, Mediana, Variância e Desvio Padrão
+
+Um aspecto crucial na análise estatística de dados é a capacidade de resumir e entender a distribuição dos dados. Algumas medidas de resumo comuns incluem a média, mediana, variância e desvio padrão. Vamos explorar cada uma delas e demonstrar como calculá-las usando R e Python.
+
+### Média
+
+A média é a soma de todos os valores dividida pelo número de observações.
+
+#### `R`
+
+```{r}
+# Exemplo em R
+dados <- c(2, 4, 5, 7, 9)
+media <- mean(dados)
+print(paste("Média: ", media))
+
+```
+
+### `Python`
+
+```{python}
+# Exemplo em Python
+dados = [2, 4, 5, 7, 9]
+media = sum(dados) / len(dados)
+print("Média:", media)
+
+```
+
+## Referências
+
+[Livo de referência](livro.pdf){target="_blank"}

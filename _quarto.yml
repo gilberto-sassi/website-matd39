@@ -1,0 +1,28 @@
+project:
+  type: website
+
+website:
+  title: "Josué da Silva"
+  body-footer: "&#169; 2023 Josué da Silva"
+  navbar:
+    left:
+      - href: index.qmd
+        text: "Home"
+      - href: curriculo.qmd
+        text: "Currículo Vitae"
+      - href: contato.qmd
+        text: "Contato"
+      - href: divulgacao.qmd
+        text: "Divulgação científica"
+
+format:
+  html:
+    theme: 
+      light: spacelab
+      dark: sketchy
+    css: styles.css
+    js: js.js
+    toc: true
+
+editor: visual
+

@@ -1,0 +1,14 @@
+{
+  "hash": "1a8c7946a90aa6ba2741e87ca2640266",
+  "result": {
+    "markdown": "---\ntitle: \"Medidas de resumo\"\nauthor: \"ChatGPT\"\ndate: \"2023/11/30\"\nimage: statistic.png\n---\n\n\n## Medidas de Resumo em Estatística Descritiva: Média, Mediana, Variância e Desvio Padrão\n\nUm aspecto crucial na análise estatística de dados é a capacidade de resumir e entender a distribuição dos dados. Algumas medidas de resumo comuns incluem a média, mediana, variância e desvio padrão. Vamos explorar cada uma delas e demonstrar como calculá-las usando R e Python.\n\n### Média\n\nA média é a soma de todos os valores dividida pelo número de observações.\n\n#### `R`\n\n\n::: {.cell}\n\n```{.r .cell-code}\n# Exemplo em R\ndados <- c(2, 4, 5, 7, 9)\nmedia <- mean(dados)\nprint(paste(\"Média: \", media))\n```\n\n::: {.cell-output .cell-output-stdout}\n```\n[1] \"Média:  5.4\"\n```\n:::\n:::\n\n\n### `Python`\n\n\n::: {.cell}\n\n```{.python .cell-code}\n# Exemplo em Python\ndados = [2, 4, 5, 7, 9]\nmedia = sum(dados) / len(dados)\nprint(\"Média:\", media)\n```\n\n::: {.cell-output .cell-output-stdout}\n```\nMédia: 5.4\n```\n:::\n:::\n\n\n## Referências\n\n[Livo de referência](livro.pdf){target=\"_blank\"}",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

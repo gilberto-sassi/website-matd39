@@ -1,0 +1,37 @@
+---
+title: "Josúe da Silva"
+---
+
+# Curriculum Vitae
+
+## Informações Pessoais
+- **Endereço:** Rua Travessa São Paulo, número 444, Salvador, Bahia
+- **Email:** email@gmail.com
+
+## Formação Acadêmica
+- **Cursos:**
+  - Introdução à Linguagem R
+  - Introdução a Python
+  - Introdução a Banco de Dados
+  - Introdução a SQL
+
+## Idiomas
+- **Inglês:** Avançado
+- **Espanhol:** Avançado
+
+## Experiência Profissional
+- **Analista de TI**
+  - Tribunal de Justiça da Bahia
+  - Período: [Inserir datas]
+
+- **Professor Substituto**
+  - UFBA - Instituto de Matemática e Estatística
+  - Departamento de Estatística
+  - Período: [Inserir datas]
+
+## Habilidades
+- **Comunicativo**
+- **Empático**
+
+
+---

@@ -1,0 +1,23 @@
+{
+  "index.qmd": {
+    "index.html": "683a162d"
+  },
+  "about.qmd": {
+    "about.html": "85a02d9e"
+  },
+  "curriculo.qmd": {
+    "curriculo.html": "e51bc3d4"
+  },
+  "contato.qmd": {
+    "contato.html": "51d79233"
+  },
+  "divulgacao.qmd": {
+    "divulgacao.html": "20369772"
+  },
+  "divulgacao/postagem.qmd": {
+    "postagem.html": "6b8cecdd"
+  },
+  "divulgacao/postagem/postagem.qmd": {
+    "postagem.html": "b5ee2915"
+  }
+}

@@ -1,0 +1,36 @@
+---
+title: "Redes sociais"
+---
+
+::: {layout="[ 5, 95 ]"}
+
+::: {#first-column}
+
+[![](assets/linkedin.png)](https://www.linkedin.com/in/beatrizmourab/){target="_blank"}
+
+:::
+
+::: {#second-column}
+
+[linkedin.com/in/beatrizmourab/](https://www.linkedin.com/in/beatrizmourab/){target="_blank"}
+
+:::
+
+:::
+
+::: {layout="[ 5, 95 ]"}
+
+::: {#primeira-coluna}
+
+[![](assets/github.png)](https://github.com/gilberto-sassi){target="_blank"}
+:::
+
+::: {#segunda-coluna}
+
+[github.com/gilberto-sassi](https://github.com/gilberto-sassi){target="_blank"}
+
+:::
+
+:::
+
+---

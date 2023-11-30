@@ -1,0 +1,16 @@
+---
+title: "Divulgação científica"
+listing: 
+  id: divulgacao
+  contents: divulgacao
+  type: table
+---
+
+Apresentamos com entusiasmo o "Desvendando Dados", um blog dedicado à divulgação científica centrada em estatística e ciência de dados. Ao celebrarmos nosso primeiro ano, destacamos a missão de tornar esses campos acessíveis a todos, transformando complexidades em narrativas envolventes. Nossa jornada explorou desde técnicas estatísticas avançadas até aplicações práticas da ciência de dados, comprometendo-se com informações precisas e relevância prática. Com destaques que abordaram padrões estatísticos, análises de tendências e o impacto da ciência de dados em diversas áreas, pretendemos continuar desbravando esses campos e compartilhando descobertas e tendências futuras. Convidamos a comunidade a participar ativamente, enriquecendo nosso entendimento coletivo. Agradecemos aos que nos acompanharam nessa jornada inaugural e ansiamos por muitos anos explorando a fronteira estatística e científica de dados.
+
+---
+
+::: {#divulgacao}
+:::
+
+---
